@@ -1,10 +1,12 @@
 ---
 name: egelloc-design
-description: Use this skill to generate well-branded interfaces and assets for egelloC, either for production or throwaway prototypes/mocks/etc. Contains essential design guidelines, colors, type, fonts, assets, and UI kit components for protoyping.
+description: Use this skill whenever generating any egelloC brand-related asset or interface (social posts, ads, carousels, thumbnails, decks, one-pagers, statements, web pages, production UI or throwaway prototypes/mocks). Contains the binding brand rules, design guidelines, colors, type, fonts, assets, and UI kit components.
 user-invocable: true
 ---
 
-Read the README.md file within this skill, and explore the other available files.
+**Read `CLAUDE.md` in this skill folder first, before anything else, every time.** It holds the binding operating rules for every egelloC asset: the two audiences (admin vs end-user), the immutable template lockdown, permitted vs prohibited tweaks, the exact Brand Compliance Notice, copy ownership, intake, and ad audience rules. Follow it exactly; where it and anything below differ, `CLAUDE.md` wins.
+
+Then read the README.md file within this skill, and explore the other available files.
 If creating visual artifacts (slides, mocks, throwaway prototypes, etc), copy assets out and create static HTML files for the user to view. If working on production code, you can copy assets and read the rules here to become an expert in designing with this brand.
 If the user invokes this skill without any other guidance, ask them what they want to build or design, ask some questions, and act as an expert designer who outputs HTML artifacts _or_ production code, depending on the need.
 
