@@ -6,7 +6,7 @@ egelloC sells a plan to families who are anxious about their child's future. The
 
 That is not decoration, it is the deliverable. In practice it means air over density, one focal point over competing elements, flat deliberate colour blocking over effects, a strict type scale over improvised sizes, and locked aspect ratios on every logo, icon and photo. Anything that reads as busy, budget, or improvised undermines the promise the copy is making.
 
-The pass/fail checks that enforce this are in `readme.md` under "Anti-cheap polish — the high-end floor". Run them before anything ships. If an asset passes the template rules but still looks cheap, it is not finished — say so rather than shipping it.
+The pass/fail checks that enforce this are in `README.md` under "Anti-cheap polish — the high-end floor". Run them before anything ships. If an asset passes the template rules but still looks cheap, it is not finished — say so rather than shipping it.
 
 ## Two audiences
 
@@ -33,7 +33,7 @@ Text is payload, and payload belongs to the requester. When someone supplies wor
 
 Where to help instead:
 
-- **They have no copy.** Write it in the brand voice — the Master Navigator way, validating the pain point and immediately replacing it with a structured next step. See `readme.md` under "Content fundamentals".
+- **They have no copy.** Write it in the brand voice — the Master Navigator way, validating the pain point and immediately replacing it with a structured next step. See `README.md` under "Content fundamentals".
 - **Their copy is too aggressive, or reads as fear-only, or leaves a parent in the passive state.** Say so and offer an alternative line alongside theirs. One suggestion, clearly marked, then set what they chose.
 - **It does not fit.** Say what will happen at that length — a headline over 24ch on web, a static headline that drops below the size floor — and offer either a trim or the size step that accommodates it. Their choice which.
 
@@ -79,12 +79,12 @@ When an end-user requests a structural, layout, or brand change to any asset:
 
 ## Intake still comes first
 
-The lockdown does not replace the intake rule. Read whatever source material was supplied, then ask a structured question form for the blanks the source can't fill, pre-filled from the source, and wait for answers before generating. Questions fill blanks; they never restructure a template. See `readme.md` ("Asset intake — always ask first") and `templates/refund-statement/README.md` for the worked example.
+The lockdown does not replace the intake rule. Read whatever source material was supplied, then ask a structured question form for the blanks the source can't fill, pre-filled from the source, and wait for answers before generating. Questions fill blanks; they never restructure a template. See `README.md` ("Asset intake — always ask first") and `templates/refund-statement/README.md` for the worked example.
 
 ## Ads have a defined audience
 
 Graphics can be briefed freely. Ads cannot: every ad needs an **audience temperature** (COLD / WARM) and a **persona** (P1 first-gen immigrant · P2 2nd-gen college-educated · P3 competitive California · ALL) before design starts. If the request doesn't state them, ask in the intake form. A brief written with `guidelines/creative-brief.md` that marks temperature "COLD (Confirm)" is built as cold, with the flag repeated in the delivery note. Then follow `guidelines/ad-audiences.md` for ground choice, hook, credibility, coach usage, carousel sequence and the persona's say / never-say lists. That file decides audience; this design system still decides tokens, type families and logo rules.
 
-**Briefed departures are allowed on ads and statics.** The default rules in this file and `readme.md` stay in force for every format (ads, statics, web pages, thumbnails, decks, collateral) and are what applies whenever a brief is silent. A departure is a per-brief exception and does not change the defaults. When a marketing brief explicitly asks for something outside a default (all-caps headline, rectangle CTA, dropping the credibility line, a new size or device), build it as briefed and list each departure in one line in the delivery note. This is not a compliance-notice case. What still holds: palette tokens, Inter, logo integrity, legibility/contrast floors and the anti-cheap checks. The compliance notice is for ad-hoc requests that break those, not for a brief testing a new treatment.
+**Briefed departures are allowed on ads and statics.** The default rules in this file and `README.md` stay in force for every format (ads, statics, web pages, thumbnails, decks, collateral) and are what applies whenever a brief is silent. A departure is a per-brief exception and does not change the defaults. When a marketing brief explicitly asks for something outside a default (all-caps headline, rectangle CTA, dropping the credibility line, a new size or device), build it as briefed and list each departure in one line in the delivery note. This is not a compliance-notice case. What still holds: palette tokens, Inter, logo integrity, legibility/contrast floors and the anti-cheap checks. The compliance notice is for ad-hoc requests that break those, not for a brief testing a new treatment.
 
 **Coaches.** Tony (Tony Le, founder) and David are different people. Use `coach-tony-*` photos when a brief names Tony, `coach-david-*` when it names David; never swap them.
